@@ -9,8 +9,12 @@ namespace Ejercicio2GuiaCAI
             Ejercicio2GuiaCAI EJ = new Ejercicio2GuiaCAI();
 
             //EJ.EJ7();
-            EJ.EJ8();
-
+            //EJ.EJ8();
+            //EJ.EJ9();
+            //EJ.EJ10();
+            //EJ.EJ11();
+            //EJ.EJ12();
+            EJ.EJ13();
 
 
 
